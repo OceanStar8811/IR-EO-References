@@ -1,2 +1,1 @@
-# IR-EO-Books
-Infrared and Electro-Optics Books
+# Infrared Electro-Optics References
